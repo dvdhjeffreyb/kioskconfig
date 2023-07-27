@@ -1,0 +1,23 @@
+connection=wired
+#connection=wifi
+dhcp=yes
+#wifi_encryption=wpa
+#wpa_password=Wachtwoord
+#ssid_name=SSID
+
+kiosk_config=https://dvdhjeffreyb.github.io/kioskconfig/kiosk01.txt
+browser=firefox
+disable_firewall=yes
+homepage=https://narrowcasting.studio/player
+hostname=KIOSK02
+hide_mouse=5
+disable_navigation_bar=yes
+persistence=full
+disable_private_mode=yes
+screen_rotate=left
+shutdown_menu=reboot 
+vnc_interactive=yes
+vnc_password=d074N6NV
+scheduled_action=Monday-01:00 Tuesday-01:00 Wednesday-01:00 Thursday-01:00 Friday-01:00 Saturday-01:00 Sunday-01:00 action:reboot
+wake_on_lan=yes
+additional_components=09-x11vnc.xzm uefi.zip 
