@@ -5,6 +5,7 @@ dhcp=yes
 #wpa_password=Wachtwoord
 #ssid_name=SSID
 
+kiosk_config=https://dvdhjeffreyb.github.io/kioskconfig/kiosk01.txt
 browser=firefox
 disable_firewall=yes
 homepage=https://narrowcasting.studio/player
