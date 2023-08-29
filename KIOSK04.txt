@@ -1,9 +1,9 @@
-#connection=wired
-connection=wifi
+connection=wired
+#connection=wifi
 dhcp=yes
 #wifi_encryption=wpa
 #wpa_password=xs2internet
-ssid_name=Gasten WIFI
+#ssid_name=Gasten WIFI
 
 kiosk_config=https://dvdhjeffreyb.github.io/kioskconfig/KIOSK04.txt
 browser=firefox
