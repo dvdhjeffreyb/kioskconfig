@@ -5,7 +5,7 @@ dhcp=yes
 #wpa_password=xs2internet
 #ssid_name=Gasten WIFI
 
-kiosk_config=https://dvdhjeffreyb.github.io/kioskconfig/KIOSKTEST.txt
+kiosk_config=https://dvdhsupport.github.io/kioskconfig/kiosktest.txt
 browser=firefox
 disable_firewall=yes
 homepage=https://doornvanderhaar.nl
