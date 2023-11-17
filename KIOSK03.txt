@@ -5,7 +5,7 @@ dhcp=yes
 #wpa_password=Wachtwoord
 #ssid_name=SSID
 
-kiosk_config=https://dvdhjeffreyb.github.io/kioskconfig/KIOSK03.txt
+kiosk_config=https://dvdhsupport.github.io/kioskconfig/kiosk03.txt
 browser=firefox
 disable_firewall=yes
 homepage=https://voipportal.doornvanderhaar.nl/organization-dashboard/2dc1b22c-d991-48ac-a8a4-bb78e1fe317e
