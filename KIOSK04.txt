@@ -5,7 +5,7 @@ dhcp=yes
 #wpa_password=xs2internet
 #ssid_name=Gasten WIFI
 
-kiosk_config=https://dvdhjeffreyb.github.io/kioskconfig/KIOSK04.txt
+kiosk_config=https://dvdhsupport.github.io/kioskconfig/kiosk04.txt
 browser=firefox
 disable_firewall=yes
 homepage=https://monitoringpublic.solaredge.com/solaredge-web/p/kiosk?guid=df10d37e-fc36-4927-b0ce-13cafb374d5b
